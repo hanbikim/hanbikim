@@ -1,6 +1,5 @@
 ### Hi there 👋
-https://mybox.naver.com/share/list?shareKey=T50UIJM1xT0q4tqeyLeosZQLu1WVg8k6IWgKJXBpsP4B
-<!--
+
 **hanbikim/hanbikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
